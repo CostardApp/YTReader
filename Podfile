@@ -5,7 +5,7 @@ platform :ios, '12.0'
 target 'YTReader_EXAMPLE' do
   	platform :ios, '12.0'
 
-   pod 'YTReader', :path => '.'
+    pod 'YTReader', :git => 'https://github.com/CostardApp/YTReader.git', :path => '1.0.4'
 
 end
 

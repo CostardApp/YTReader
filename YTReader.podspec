@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
     :git => "https://github.com/CostardApp/YTReader.git",
     :tag => "1.0.4"
   }
-  spec.source_files        = "YTReader/**/*.{h,m,swift}"
+  spec.source_files        = "YTReader/YTReader/**/*.{h,m,swift}"
   spec.exclude_files = "Classes/Exclude"
-  s.public_header_files = "YTReader/**/*.h"
+  spec.public_header_files = "YTReader/**/*.h"
 end
