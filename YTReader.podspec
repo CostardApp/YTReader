@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   YTReader is a Youtube API reader easy-to-use in Swift.
                    DESC
 
-  spec.homepage     = "https://github.com/CostardApp/YTreader"
+  spec.homepage     = "https://github.com/CostardApp/YTReader"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
