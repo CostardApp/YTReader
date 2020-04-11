@@ -16,6 +16,7 @@
 		D367C38424423C5500C93638 /* VideosRecentYouTubeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = D367C37C24423C5500C93638 /* VideosRecentYouTubeClass.swift */; };
 		D367C38524423C5500C93638 /* VideosFromPlaylistWithStatisticsYouTubeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = D367C37D24423C5500C93638 /* VideosFromPlaylistWithStatisticsYouTubeClass.swift */; };
 		D367C38624423C5500C93638 /* VideosFromPlaylistYouTubeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = D367C37E24423C5500C93638 /* VideosFromPlaylistYouTubeClass.swift */; };
+		D367C388244240B300C93638 /* YTReader.podspec in Resources */ = {isa = PBXBuildFile; fileRef = D367C387244240B300C93638 /* YTReader.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		D367C37C24423C5500C93638 /* VideosRecentYouTubeClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideosRecentYouTubeClass.swift; sourceTree = "<group>"; };
 		D367C37D24423C5500C93638 /* VideosFromPlaylistWithStatisticsYouTubeClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideosFromPlaylistWithStatisticsYouTubeClass.swift; sourceTree = "<group>"; };
 		D367C37E24423C5500C93638 /* VideosFromPlaylistYouTubeClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideosFromPlaylistYouTubeClass.swift; sourceTree = "<group>"; };
+		D367C387244240B300C93638 /* YTReader.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = YTReader.podspec; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				D367C37D24423C5500C93638 /* VideosFromPlaylistWithStatisticsYouTubeClass.swift */,
 				D367C37E24423C5500C93638 /* VideosFromPlaylistYouTubeClass.swift */,
 				D367C37C24423C5500C93638 /* VideosRecentYouTubeClass.swift */,
+				D367C387244240B300C93638 /* YTReader.podspec */,
 			);
 			path = YTReader;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D367C388244240B300C93638 /* YTReader.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
