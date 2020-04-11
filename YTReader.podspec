@@ -10,5 +10,5 @@ Pod::Spec.new do |spec|
   spec.swift_version = '5.1'
   spec.source        = { :git => 'https://github.com/CostardApp/YTReader.git', :tag => '1.0.4'
   }
-  spec.source_files  = 'YTReader/**/*.{h,m,swift}'
+  spec.source_files  = 'YTReader/*.{h,m,swift}'
 end
