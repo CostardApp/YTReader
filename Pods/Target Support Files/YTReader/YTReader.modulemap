@@ -1,0 +1,6 @@
+module YTReader {
+  umbrella header "YTReader-umbrella.h"
+
+  export *
+  module * { export * }
+}

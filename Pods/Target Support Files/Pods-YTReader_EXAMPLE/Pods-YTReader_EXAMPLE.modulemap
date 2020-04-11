@@ -1,0 +1,6 @@
+module Pods_YTReader_EXAMPLE {
+  umbrella header "Pods-YTReader_EXAMPLE-umbrella.h"
+
+  export *
+  module * { export * }
+}

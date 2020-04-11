@@ -1,0 +1,20 @@
+{
+  "name": "YTReader",
+  "version": "1.0.3",
+  "summary": "Youtube API reader easy-to-use in Swift.",
+  "description": "YTReader is a Youtube API reader easy-to-use in Swift.",
+  "homepage": "https://github.com/CostardApp/",
+  "license": "MIT",
+  "authors": "Brian Costard",
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.1",
+  "source": {
+    "git": "https://github.com/CostardApp/YTReader.git",
+    "tag": "1.0.3"
+  },
+  "source_files": "YTReader/**/*.{h,m,swift}",
+  "public_header_files": "YTReader/**/*.h",
+  "swift_version": "5.1"
+}

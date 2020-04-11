@@ -1,0 +1,16 @@
+PODS:
+  - YTReader (1.0.3)
+
+DEPENDENCIES:
+  - YTReader (from `.`)
+
+EXTERNAL SOURCES:
+  YTReader:
+    :path: "."
+
+SPEC CHECKSUMS:
+  YTReader: bc917825e27bd1a6f99019f4fe7b85331b27b9c9
+
+PODFILE CHECKSUM: 9a201fe672d289cee707bf0cff611f9b5ee336e9
+
+COCOAPODS: 1.9.1
